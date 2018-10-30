@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: b10381ed992d11349a318c4db371a7ff
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _Charcoal_
+    100002: //RootNode
+    100004: FrontColor
+    100006: M_0001_PaleVioletRed
+    100008: M_0002_MediumVioletRed
+    100010: M_0021_DarkRed
+    100012: M_0024_OrangeRed
+    100014: M_0041_Chocolate
+    100016: M_0042_Sienna
+    100018: M_0046_Gold
+    100020: M_0065_Lime
+    100022: M_0077_DarkGreen
+    100024: M_0078_DarkSlateGray
+    100026: M_0105_Navy
+    100028: Material_1
+    100030: Material_3
+    400000: _Charcoal_
+    400002: //RootNode
+    400004: FrontColor
+    400006: M_0001_PaleVioletRed
+    400008: M_0002_MediumVioletRed
+    400010: M_0021_DarkRed
+    400012: M_0024_OrangeRed
+    400014: M_0041_Chocolate
+    400016: M_0042_Sienna
+    400018: M_0046_Gold
+    400020: M_0065_Lime
+    400022: M_0077_DarkGreen
+    400024: M_0078_DarkSlateGray
+    400026: M_0105_Navy
+    400028: Material_1
+    400030: Material_3
+    2100000: _Charcoal_Mat
+    2100002: FrontColorMat
+    2100004: M_0001_PaleVioletRedMat
+    2100006: M_0002_MediumVioletRedMat
+    2100008: M_0021_DarkRedMat
+    2100010: M_0024_OrangeRedMat
+    2100012: M_0041_ChocolateMat
+    2100014: M_0042_SiennaMat
+    2100016: M_0046_GoldMat
+    2100018: M_0065_LimeMat
+    2100020: M_0077_DarkGreenMat
+    2100022: M_0078_DarkSlateGrayMat
+    2100024: M_0105_NavyMat
+    2100026: Material_1Mat
+    2100028: Material_3Mat
+    2300000: _Charcoal_
+    2300002: FrontColor
+    2300004: M_0001_PaleVioletRed
+    2300006: M_0002_MediumVioletRed
+    2300008: M_0021_DarkRed
+    2300010: M_0024_OrangeRed
+    2300012: M_0041_Chocolate
+    2300014: M_0042_Sienna
+    2300016: M_0046_Gold
+    2300018: M_0065_Lime
+    2300020: M_0077_DarkGreen
+    2300022: M_0078_DarkSlateGray
+    2300024: M_0105_Navy
+    2300026: Material_1
+    2300028: Material_3
+    3300000: _Charcoal_
+    3300002: FrontColor
+    3300004: M_0001_PaleVioletRed
+    3300006: M_0002_MediumVioletRed
+    3300008: M_0021_DarkRed
+    3300010: M_0024_OrangeRed
+    3300012: M_0041_Chocolate
+    3300014: M_0042_Sienna
+    3300016: M_0046_Gold
+    3300018: M_0065_Lime
+    3300020: M_0077_DarkGreen
+    3300022: M_0078_DarkSlateGray
+    3300024: M_0105_Navy
+    3300026: Material_1
+    3300028: Material_3
+    4300000: _Charcoal_
+    4300002: FrontColor
+    4300004: M_0001_PaleVioletRed
+    4300006: M_0002_MediumVioletRed
+    4300008: M_0021_DarkRed
+    4300010: M_0024_OrangeRed
+    4300012: M_0041_Chocolate
+    4300014: M_0042_Sienna
+    4300016: M_0046_Gold
+    4300018: M_0065_Lime
+    4300020: M_0077_DarkGreen
+    4300022: M_0078_DarkSlateGray
+    4300024: M_0105_Navy
+    4300026: Material_1
+    4300028: Material_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

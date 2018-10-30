@@ -1,0 +1,978 @@
+fileFormatVersion: 2
+guid: 14f782db5ae8c92439a6f5db77ce7d91
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _Charcoal_
+    100002: Active Camera
+    100004: Default
+    100006: //RootNode
+    100008: FrontColor
+    100010: M_0001_PaleVioletRed
+    100012: M_0002_MediumVioletRed
+    100014: M_0002_MediumVioletRed 1
+    100016: M_0002_MediumVioletRed 10
+    100018: M_0002_MediumVioletRed 11
+    100020: M_0002_MediumVioletRed 12
+    100022: M_0002_MediumVioletRed 13
+    100024: M_0002_MediumVioletRed 14
+    100026: M_0002_MediumVioletRed 2
+    100028: M_0002_MediumVioletRed 3
+    100030: M_0002_MediumVioletRed 4
+    100032: M_0002_MediumVioletRed 5
+    100034: M_0002_MediumVioletRed 6
+    100036: M_0002_MediumVioletRed 7
+    100038: M_0002_MediumVioletRed 8
+    100040: M_0002_MediumVioletRed 9
+    100042: M_0021_DarkRed
+    100044: M_0024_OrangeRed
+    100046: M_0024_OrangeRed 1
+    100048: M_0024_OrangeRed 10
+    100050: M_0024_OrangeRed 11
+    100052: M_0024_OrangeRed 12
+    100054: M_0024_OrangeRed 13
+    100056: M_0024_OrangeRed 14
+    100058: M_0024_OrangeRed 15
+    100060: M_0024_OrangeRed 16
+    100062: M_0024_OrangeRed 17
+    100064: M_0024_OrangeRed 18
+    100066: M_0024_OrangeRed 19
+    100068: M_0024_OrangeRed 2
+    100070: M_0024_OrangeRed 20
+    100072: M_0024_OrangeRed 21
+    100074: M_0024_OrangeRed 22
+    100076: M_0024_OrangeRed 23
+    100078: M_0024_OrangeRed 24
+    100080: M_0024_OrangeRed 25
+    100082: M_0024_OrangeRed 26
+    100084: M_0024_OrangeRed 27
+    100086: M_0024_OrangeRed 28
+    100088: M_0024_OrangeRed 29
+    100090: M_0024_OrangeRed 3
+    100092: M_0024_OrangeRed 30
+    100094: M_0024_OrangeRed 31
+    100096: M_0024_OrangeRed 32
+    100098: M_0024_OrangeRed 33
+    100100: M_0024_OrangeRed 34
+    100102: M_0024_OrangeRed 35
+    100104: M_0024_OrangeRed 36
+    100106: M_0024_OrangeRed 37
+    100108: M_0024_OrangeRed 38
+    100110: M_0024_OrangeRed 39
+    100112: M_0024_OrangeRed 4
+    100114: M_0024_OrangeRed 40
+    100116: M_0024_OrangeRed 41
+    100118: M_0024_OrangeRed 42
+    100120: M_0024_OrangeRed 43
+    100122: M_0024_OrangeRed 44
+    100124: M_0024_OrangeRed 45
+    100126: M_0024_OrangeRed 46
+    100128: M_0024_OrangeRed 47
+    100130: M_0024_OrangeRed 48
+    100132: M_0024_OrangeRed 49
+    100134: M_0024_OrangeRed 5
+    100136: M_0024_OrangeRed 50
+    100138: M_0024_OrangeRed 51
+    100140: M_0024_OrangeRed 52
+    100142: M_0024_OrangeRed 53
+    100144: M_0024_OrangeRed 54
+    100146: M_0024_OrangeRed 55
+    100148: M_0024_OrangeRed 56
+    100150: M_0024_OrangeRed 57
+    100152: M_0024_OrangeRed 58
+    100154: M_0024_OrangeRed 59
+    100156: M_0024_OrangeRed 6
+    100158: M_0024_OrangeRed 7
+    100160: M_0024_OrangeRed 8
+    100162: M_0024_OrangeRed 9
+    100164: M_0041_Chocolate
+    100166: M_0041_Chocolate 1
+    100168: M_0042_Sienna
+    100170: M_0046_Gold
+    100172: M_0065_Lime
+    100174: M_0065_Lime 1
+    100176: M_0065_Lime 10
+    100178: M_0065_Lime 11
+    100180: M_0065_Lime 12
+    100182: M_0065_Lime 13
+    100184: M_0065_Lime 14
+    100186: M_0065_Lime 15
+    100188: M_0065_Lime 16
+    100190: M_0065_Lime 17
+    100192: M_0065_Lime 18
+    100194: M_0065_Lime 19
+    100196: M_0065_Lime 2
+    100198: M_0065_Lime 20
+    100200: M_0065_Lime 3
+    100202: M_0065_Lime 4
+    100204: M_0065_Lime 5
+    100206: M_0065_Lime 6
+    100208: M_0065_Lime 7
+    100210: M_0065_Lime 8
+    100212: M_0065_Lime 9
+    100214: M_0077_DarkGreen
+    100216: M_0078_DarkSlateGray
+    100218: M_0078_DarkSlateGray 1
+    100220: M_0078_DarkSlateGray 2
+    100222: M_0078_DarkSlateGray 3
+    100224: M_0078_DarkSlateGray 4
+    100226: M_0078_DarkSlateGray 5
+    100228: M_0105_Navy
+    100230: Material_1
+    100232: Material_3
+    100234: Material_3 1
+    100236: Material_3 10
+    100238: Material_3 11
+    100240: Material_3 12
+    100242: Material_3 13
+    100244: Material_3 14
+    100246: Material_3 15
+    100248: Material_3 16
+    100250: Material_3 17
+    100252: Material_3 18
+    100254: Material_3 19
+    100256: Material_3 2
+    100258: Material_3 20
+    100260: Material_3 21
+    100262: Material_3 22
+    100264: Material_3 23
+    100266: Material_3 24
+    100268: Material_3 25
+    100270: Material_3 26
+    100272: Material_3 27
+    100274: Material_3 28
+    100276: Material_3 29
+    100278: Material_3 3
+    100280: Material_3 30
+    100282: Material_3 31
+    100284: Material_3 32
+    100286: Material_3 33
+    100288: Material_3 34
+    100290: Material_3 35
+    100292: Material_3 36
+    100294: Material_3 37
+    100296: Material_3 38
+    100298: Material_3 39
+    100300: Material_3 4
+    100302: Material_3 40
+    100304: Material_3 41
+    100306: Material_3 42
+    100308: Material_3 43
+    100310: Material_3 44
+    100312: Material_3 45
+    100314: Material_3 46
+    100316: Material_3 47
+    100318: Material_3 48
+    100320: Material_3 49
+    100322: Material_3 5
+    100324: Material_3 50
+    100326: Material_3 51
+    100328: Material_3 52
+    100330: Material_3 53
+    100332: Material_3 54
+    100334: Material_3 55
+    100336: Material_3 56
+    100338: Material_3 57
+    100340: Material_3 58
+    100342: Material_3 59
+    100344: Material_3 6
+    100346: Material_3 7
+    100348: Material_3 8
+    100350: Material_3 9
+    100352: secne1
+    100354: Untitled
+    400000: _Charcoal_
+    400002: Active Camera
+    400004: Default
+    400006: //RootNode
+    400008: FrontColor
+    400010: M_0001_PaleVioletRed
+    400012: M_0002_MediumVioletRed
+    400014: M_0002_MediumVioletRed 1
+    400016: M_0002_MediumVioletRed 10
+    400018: M_0002_MediumVioletRed 11
+    400020: M_0002_MediumVioletRed 12
+    400022: M_0002_MediumVioletRed 13
+    400024: M_0002_MediumVioletRed 14
+    400026: M_0002_MediumVioletRed 2
+    400028: M_0002_MediumVioletRed 3
+    400030: M_0002_MediumVioletRed 4
+    400032: M_0002_MediumVioletRed 5
+    400034: M_0002_MediumVioletRed 6
+    400036: M_0002_MediumVioletRed 7
+    400038: M_0002_MediumVioletRed 8
+    400040: M_0002_MediumVioletRed 9
+    400042: M_0021_DarkRed
+    400044: M_0024_OrangeRed
+    400046: M_0024_OrangeRed 1
+    400048: M_0024_OrangeRed 10
+    400050: M_0024_OrangeRed 11
+    400052: M_0024_OrangeRed 12
+    400054: M_0024_OrangeRed 13
+    400056: M_0024_OrangeRed 14
+    400058: M_0024_OrangeRed 15
+    400060: M_0024_OrangeRed 16
+    400062: M_0024_OrangeRed 17
+    400064: M_0024_OrangeRed 18
+    400066: M_0024_OrangeRed 19
+    400068: M_0024_OrangeRed 2
+    400070: M_0024_OrangeRed 20
+    400072: M_0024_OrangeRed 21
+    400074: M_0024_OrangeRed 22
+    400076: M_0024_OrangeRed 23
+    400078: M_0024_OrangeRed 24
+    400080: M_0024_OrangeRed 25
+    400082: M_0024_OrangeRed 26
+    400084: M_0024_OrangeRed 27
+    400086: M_0024_OrangeRed 28
+    400088: M_0024_OrangeRed 29
+    400090: M_0024_OrangeRed 3
+    400092: M_0024_OrangeRed 30
+    400094: M_0024_OrangeRed 31
+    400096: M_0024_OrangeRed 32
+    400098: M_0024_OrangeRed 33
+    400100: M_0024_OrangeRed 34
+    400102: M_0024_OrangeRed 35
+    400104: M_0024_OrangeRed 36
+    400106: M_0024_OrangeRed 37
+    400108: M_0024_OrangeRed 38
+    400110: M_0024_OrangeRed 39
+    400112: M_0024_OrangeRed 4
+    400114: M_0024_OrangeRed 40
+    400116: M_0024_OrangeRed 41
+    400118: M_0024_OrangeRed 42
+    400120: M_0024_OrangeRed 43
+    400122: M_0024_OrangeRed 44
+    400124: M_0024_OrangeRed 45
+    400126: M_0024_OrangeRed 46
+    400128: M_0024_OrangeRed 47
+    400130: M_0024_OrangeRed 48
+    400132: M_0024_OrangeRed 49
+    400134: M_0024_OrangeRed 5
+    400136: M_0024_OrangeRed 50
+    400138: M_0024_OrangeRed 51
+    400140: M_0024_OrangeRed 52
+    400142: M_0024_OrangeRed 53
+    400144: M_0024_OrangeRed 54
+    400146: M_0024_OrangeRed 55
+    400148: M_0024_OrangeRed 56
+    400150: M_0024_OrangeRed 57
+    400152: M_0024_OrangeRed 58
+    400154: M_0024_OrangeRed 59
+    400156: M_0024_OrangeRed 6
+    400158: M_0024_OrangeRed 7
+    400160: M_0024_OrangeRed 8
+    400162: M_0024_OrangeRed 9
+    400164: M_0041_Chocolate
+    400166: M_0041_Chocolate 1
+    400168: M_0042_Sienna
+    400170: M_0046_Gold
+    400172: M_0065_Lime
+    400174: M_0065_Lime 1
+    400176: M_0065_Lime 10
+    400178: M_0065_Lime 11
+    400180: M_0065_Lime 12
+    400182: M_0065_Lime 13
+    400184: M_0065_Lime 14
+    400186: M_0065_Lime 15
+    400188: M_0065_Lime 16
+    400190: M_0065_Lime 17
+    400192: M_0065_Lime 18
+    400194: M_0065_Lime 19
+    400196: M_0065_Lime 2
+    400198: M_0065_Lime 20
+    400200: M_0065_Lime 3
+    400202: M_0065_Lime 4
+    400204: M_0065_Lime 5
+    400206: M_0065_Lime 6
+    400208: M_0065_Lime 7
+    400210: M_0065_Lime 8
+    400212: M_0065_Lime 9
+    400214: M_0077_DarkGreen
+    400216: M_0078_DarkSlateGray
+    400218: M_0078_DarkSlateGray 1
+    400220: M_0078_DarkSlateGray 2
+    400222: M_0078_DarkSlateGray 3
+    400224: M_0078_DarkSlateGray 4
+    400226: M_0078_DarkSlateGray 5
+    400228: M_0105_Navy
+    400230: Material_1
+    400232: Material_3
+    400234: Material_3 1
+    400236: Material_3 10
+    400238: Material_3 11
+    400240: Material_3 12
+    400242: Material_3 13
+    400244: Material_3 14
+    400246: Material_3 15
+    400248: Material_3 16
+    400250: Material_3 17
+    400252: Material_3 18
+    400254: Material_3 19
+    400256: Material_3 2
+    400258: Material_3 20
+    400260: Material_3 21
+    400262: Material_3 22
+    400264: Material_3 23
+    400266: Material_3 24
+    400268: Material_3 25
+    400270: Material_3 26
+    400272: Material_3 27
+    400274: Material_3 28
+    400276: Material_3 29
+    400278: Material_3 3
+    400280: Material_3 30
+    400282: Material_3 31
+    400284: Material_3 32
+    400286: Material_3 33
+    400288: Material_3 34
+    400290: Material_3 35
+    400292: Material_3 36
+    400294: Material_3 37
+    400296: Material_3 38
+    400298: Material_3 39
+    400300: Material_3 4
+    400302: Material_3 40
+    400304: Material_3 41
+    400306: Material_3 42
+    400308: Material_3 43
+    400310: Material_3 44
+    400312: Material_3 45
+    400314: Material_3 46
+    400316: Material_3 47
+    400318: Material_3 48
+    400320: Material_3 49
+    400322: Material_3 5
+    400324: Material_3 50
+    400326: Material_3 51
+    400328: Material_3 52
+    400330: Material_3 53
+    400332: Material_3 54
+    400334: Material_3 55
+    400336: Material_3 56
+    400338: Material_3 57
+    400340: Material_3 58
+    400342: Material_3 59
+    400344: Material_3 6
+    400346: Material_3 7
+    400348: Material_3 8
+    400350: Material_3 9
+    400352: secne1
+    400354: Untitled
+    2000000: Active Camera
+    2000002: secne1
+    2100000: FrontColor
+    2100002: M_0001_PaleVioletRed
+    2100004: Material_1
+    2100006: Leather Dark Red 1000mm
+    2100008: Material_3
+    2100010: Leather Brown 1000mm
+    2100012: Glass Heavy Frost White
+    2100014: Anodized Niobium Rough Blue
+    2100016: Flat moon 980 down LED 3000K 12850409
+    2100018: M_0078_DarkSlateGray
+    2100020: Glass Basic Black
+    2100022: Purple Haze_745652
+    2100024: Paint Gloss Black
+    2100026: Old Wood Planks
+    2100028: Snow Storm_745630
+    2300000: _Charcoal_
+    2300002: FrontColor
+    2300004: M_0001_PaleVioletRed
+    2300006: M_0002_MediumVioletRed
+    2300008: M_0002_MediumVioletRed 1
+    2300010: M_0002_MediumVioletRed 10
+    2300012: M_0002_MediumVioletRed 11
+    2300014: M_0002_MediumVioletRed 12
+    2300016: M_0002_MediumVioletRed 13
+    2300018: M_0002_MediumVioletRed 14
+    2300020: M_0002_MediumVioletRed 2
+    2300022: M_0002_MediumVioletRed 3
+    2300024: M_0002_MediumVioletRed 4
+    2300026: M_0002_MediumVioletRed 5
+    2300028: M_0002_MediumVioletRed 6
+    2300030: M_0002_MediumVioletRed 7
+    2300032: M_0002_MediumVioletRed 8
+    2300034: M_0002_MediumVioletRed 9
+    2300036: M_0021_DarkRed
+    2300038: M_0024_OrangeRed
+    2300040: M_0024_OrangeRed 1
+    2300042: M_0024_OrangeRed 10
+    2300044: M_0024_OrangeRed 11
+    2300046: M_0024_OrangeRed 12
+    2300048: M_0024_OrangeRed 13
+    2300050: M_0024_OrangeRed 14
+    2300052: M_0024_OrangeRed 15
+    2300054: M_0024_OrangeRed 16
+    2300056: M_0024_OrangeRed 17
+    2300058: M_0024_OrangeRed 18
+    2300060: M_0024_OrangeRed 19
+    2300062: M_0024_OrangeRed 2
+    2300064: M_0024_OrangeRed 20
+    2300066: M_0024_OrangeRed 21
+    2300068: M_0024_OrangeRed 22
+    2300070: M_0024_OrangeRed 23
+    2300072: M_0024_OrangeRed 24
+    2300074: M_0024_OrangeRed 25
+    2300076: M_0024_OrangeRed 26
+    2300078: M_0024_OrangeRed 27
+    2300080: M_0024_OrangeRed 28
+    2300082: M_0024_OrangeRed 29
+    2300084: M_0024_OrangeRed 3
+    2300086: M_0024_OrangeRed 30
+    2300088: M_0024_OrangeRed 31
+    2300090: M_0024_OrangeRed 32
+    2300092: M_0024_OrangeRed 33
+    2300094: M_0024_OrangeRed 34
+    2300096: M_0024_OrangeRed 35
+    2300098: M_0024_OrangeRed 36
+    2300100: M_0024_OrangeRed 37
+    2300102: M_0024_OrangeRed 38
+    2300104: M_0024_OrangeRed 39
+    2300106: M_0024_OrangeRed 4
+    2300108: M_0024_OrangeRed 40
+    2300110: M_0024_OrangeRed 41
+    2300112: M_0024_OrangeRed 42
+    2300114: M_0024_OrangeRed 43
+    2300116: M_0024_OrangeRed 44
+    2300118: M_0024_OrangeRed 45
+    2300120: M_0024_OrangeRed 46
+    2300122: M_0024_OrangeRed 47
+    2300124: M_0024_OrangeRed 48
+    2300126: M_0024_OrangeRed 49
+    2300128: M_0024_OrangeRed 5
+    2300130: M_0024_OrangeRed 50
+    2300132: M_0024_OrangeRed 51
+    2300134: M_0024_OrangeRed 52
+    2300136: M_0024_OrangeRed 53
+    2300138: M_0024_OrangeRed 54
+    2300140: M_0024_OrangeRed 55
+    2300142: M_0024_OrangeRed 56
+    2300144: M_0024_OrangeRed 57
+    2300146: M_0024_OrangeRed 58
+    2300148: M_0024_OrangeRed 59
+    2300150: M_0024_OrangeRed 6
+    2300152: M_0024_OrangeRed 7
+    2300154: M_0024_OrangeRed 8
+    2300156: M_0024_OrangeRed 9
+    2300158: M_0041_Chocolate
+    2300160: M_0041_Chocolate 1
+    2300162: M_0042_Sienna
+    2300164: M_0046_Gold
+    2300166: M_0065_Lime
+    2300168: M_0065_Lime 1
+    2300170: M_0065_Lime 10
+    2300172: M_0065_Lime 11
+    2300174: M_0065_Lime 12
+    2300176: M_0065_Lime 13
+    2300178: M_0065_Lime 14
+    2300180: M_0065_Lime 15
+    2300182: M_0065_Lime 16
+    2300184: M_0065_Lime 17
+    2300186: M_0065_Lime 18
+    2300188: M_0065_Lime 19
+    2300190: M_0065_Lime 2
+    2300192: M_0065_Lime 20
+    2300194: M_0065_Lime 3
+    2300196: M_0065_Lime 4
+    2300198: M_0065_Lime 5
+    2300200: M_0065_Lime 6
+    2300202: M_0065_Lime 7
+    2300204: M_0065_Lime 8
+    2300206: M_0065_Lime 9
+    2300208: M_0077_DarkGreen
+    2300210: M_0078_DarkSlateGray
+    2300212: M_0078_DarkSlateGray 1
+    2300214: M_0078_DarkSlateGray 2
+    2300216: M_0078_DarkSlateGray 3
+    2300218: M_0078_DarkSlateGray 4
+    2300220: M_0078_DarkSlateGray 5
+    2300222: M_0105_Navy
+    2300224: Material_1
+    2300226: Material_3
+    2300228: Material_3 1
+    2300230: Material_3 10
+    2300232: Material_3 11
+    2300234: Material_3 12
+    2300236: Material_3 13
+    2300238: Material_3 14
+    2300240: Material_3 15
+    2300242: Material_3 16
+    2300244: Material_3 17
+    2300246: Material_3 18
+    2300248: Material_3 19
+    2300250: Material_3 2
+    2300252: Material_3 20
+    2300254: Material_3 21
+    2300256: Material_3 22
+    2300258: Material_3 23
+    2300260: Material_3 24
+    2300262: Material_3 25
+    2300264: Material_3 26
+    2300266: Material_3 27
+    2300268: Material_3 28
+    2300270: Material_3 29
+    2300272: Material_3 3
+    2300274: Material_3 30
+    2300276: Material_3 31
+    2300278: Material_3 32
+    2300280: Material_3 33
+    2300282: Material_3 34
+    2300284: Material_3 35
+    2300286: Material_3 36
+    2300288: Material_3 37
+    2300290: Material_3 38
+    2300292: Material_3 39
+    2300294: Material_3 4
+    2300296: Material_3 40
+    2300298: Material_3 41
+    2300300: Material_3 42
+    2300302: Material_3 43
+    2300304: Material_3 44
+    2300306: Material_3 45
+    2300308: Material_3 46
+    2300310: Material_3 47
+    2300312: Material_3 48
+    2300314: Material_3 49
+    2300316: Material_3 5
+    2300318: Material_3 50
+    2300320: Material_3 51
+    2300322: Material_3 52
+    2300324: Material_3 53
+    2300326: Material_3 54
+    2300328: Material_3 55
+    2300330: Material_3 56
+    2300332: Material_3 57
+    2300334: Material_3 58
+    2300336: Material_3 59
+    2300338: Material_3 6
+    2300340: Material_3 7
+    2300342: Material_3 8
+    2300344: Material_3 9
+    3300000: _Charcoal_
+    3300002: FrontColor
+    3300004: M_0001_PaleVioletRed
+    3300006: M_0002_MediumVioletRed
+    3300008: M_0002_MediumVioletRed 1
+    3300010: M_0002_MediumVioletRed 10
+    3300012: M_0002_MediumVioletRed 11
+    3300014: M_0002_MediumVioletRed 12
+    3300016: M_0002_MediumVioletRed 13
+    3300018: M_0002_MediumVioletRed 14
+    3300020: M_0002_MediumVioletRed 2
+    3300022: M_0002_MediumVioletRed 3
+    3300024: M_0002_MediumVioletRed 4
+    3300026: M_0002_MediumVioletRed 5
+    3300028: M_0002_MediumVioletRed 6
+    3300030: M_0002_MediumVioletRed 7
+    3300032: M_0002_MediumVioletRed 8
+    3300034: M_0002_MediumVioletRed 9
+    3300036: M_0021_DarkRed
+    3300038: M_0024_OrangeRed
+    3300040: M_0024_OrangeRed 1
+    3300042: M_0024_OrangeRed 10
+    3300044: M_0024_OrangeRed 11
+    3300046: M_0024_OrangeRed 12
+    3300048: M_0024_OrangeRed 13
+    3300050: M_0024_OrangeRed 14
+    3300052: M_0024_OrangeRed 15
+    3300054: M_0024_OrangeRed 16
+    3300056: M_0024_OrangeRed 17
+    3300058: M_0024_OrangeRed 18
+    3300060: M_0024_OrangeRed 19
+    3300062: M_0024_OrangeRed 2
+    3300064: M_0024_OrangeRed 20
+    3300066: M_0024_OrangeRed 21
+    3300068: M_0024_OrangeRed 22
+    3300070: M_0024_OrangeRed 23
+    3300072: M_0024_OrangeRed 24
+    3300074: M_0024_OrangeRed 25
+    3300076: M_0024_OrangeRed 26
+    3300078: M_0024_OrangeRed 27
+    3300080: M_0024_OrangeRed 28
+    3300082: M_0024_OrangeRed 29
+    3300084: M_0024_OrangeRed 3
+    3300086: M_0024_OrangeRed 30
+    3300088: M_0024_OrangeRed 31
+    3300090: M_0024_OrangeRed 32
+    3300092: M_0024_OrangeRed 33
+    3300094: M_0024_OrangeRed 34
+    3300096: M_0024_OrangeRed 35
+    3300098: M_0024_OrangeRed 36
+    3300100: M_0024_OrangeRed 37
+    3300102: M_0024_OrangeRed 38
+    3300104: M_0024_OrangeRed 39
+    3300106: M_0024_OrangeRed 4
+    3300108: M_0024_OrangeRed 40
+    3300110: M_0024_OrangeRed 41
+    3300112: M_0024_OrangeRed 42
+    3300114: M_0024_OrangeRed 43
+    3300116: M_0024_OrangeRed 44
+    3300118: M_0024_OrangeRed 45
+    3300120: M_0024_OrangeRed 46
+    3300122: M_0024_OrangeRed 47
+    3300124: M_0024_OrangeRed 48
+    3300126: M_0024_OrangeRed 49
+    3300128: M_0024_OrangeRed 5
+    3300130: M_0024_OrangeRed 50
+    3300132: M_0024_OrangeRed 51
+    3300134: M_0024_OrangeRed 52
+    3300136: M_0024_OrangeRed 53
+    3300138: M_0024_OrangeRed 54
+    3300140: M_0024_OrangeRed 55
+    3300142: M_0024_OrangeRed 56
+    3300144: M_0024_OrangeRed 57
+    3300146: M_0024_OrangeRed 58
+    3300148: M_0024_OrangeRed 59
+    3300150: M_0024_OrangeRed 6
+    3300152: M_0024_OrangeRed 7
+    3300154: M_0024_OrangeRed 8
+    3300156: M_0024_OrangeRed 9
+    3300158: M_0041_Chocolate
+    3300160: M_0041_Chocolate 1
+    3300162: M_0042_Sienna
+    3300164: M_0046_Gold
+    3300166: M_0065_Lime
+    3300168: M_0065_Lime 1
+    3300170: M_0065_Lime 10
+    3300172: M_0065_Lime 11
+    3300174: M_0065_Lime 12
+    3300176: M_0065_Lime 13
+    3300178: M_0065_Lime 14
+    3300180: M_0065_Lime 15
+    3300182: M_0065_Lime 16
+    3300184: M_0065_Lime 17
+    3300186: M_0065_Lime 18
+    3300188: M_0065_Lime 19
+    3300190: M_0065_Lime 2
+    3300192: M_0065_Lime 20
+    3300194: M_0065_Lime 3
+    3300196: M_0065_Lime 4
+    3300198: M_0065_Lime 5
+    3300200: M_0065_Lime 6
+    3300202: M_0065_Lime 7
+    3300204: M_0065_Lime 8
+    3300206: M_0065_Lime 9
+    3300208: M_0077_DarkGreen
+    3300210: M_0078_DarkSlateGray
+    3300212: M_0078_DarkSlateGray 1
+    3300214: M_0078_DarkSlateGray 2
+    3300216: M_0078_DarkSlateGray 3
+    3300218: M_0078_DarkSlateGray 4
+    3300220: M_0078_DarkSlateGray 5
+    3300222: M_0105_Navy
+    3300224: Material_1
+    3300226: Material_3
+    3300228: Material_3 1
+    3300230: Material_3 10
+    3300232: Material_3 11
+    3300234: Material_3 12
+    3300236: Material_3 13
+    3300238: Material_3 14
+    3300240: Material_3 15
+    3300242: Material_3 16
+    3300244: Material_3 17
+    3300246: Material_3 18
+    3300248: Material_3 19
+    3300250: Material_3 2
+    3300252: Material_3 20
+    3300254: Material_3 21
+    3300256: Material_3 22
+    3300258: Material_3 23
+    3300260: Material_3 24
+    3300262: Material_3 25
+    3300264: Material_3 26
+    3300266: Material_3 27
+    3300268: Material_3 28
+    3300270: Material_3 29
+    3300272: Material_3 3
+    3300274: Material_3 30
+    3300276: Material_3 31
+    3300278: Material_3 32
+    3300280: Material_3 33
+    3300282: Material_3 34
+    3300284: Material_3 35
+    3300286: Material_3 36
+    3300288: Material_3 37
+    3300290: Material_3 38
+    3300292: Material_3 39
+    3300294: Material_3 4
+    3300296: Material_3 40
+    3300298: Material_3 41
+    3300300: Material_3 42
+    3300302: Material_3 43
+    3300304: Material_3 44
+    3300306: Material_3 45
+    3300308: Material_3 46
+    3300310: Material_3 47
+    3300312: Material_3 48
+    3300314: Material_3 49
+    3300316: Material_3 5
+    3300318: Material_3 50
+    3300320: Material_3 51
+    3300322: Material_3 52
+    3300324: Material_3 53
+    3300326: Material_3 54
+    3300328: Material_3 55
+    3300330: Material_3 56
+    3300332: Material_3 57
+    3300334: Material_3 58
+    3300336: Material_3 59
+    3300338: Material_3 6
+    3300340: Material_3 7
+    3300342: Material_3 8
+    3300344: Material_3 9
+    4300000: FrontColor
+    4300002: M_0001_PaleVioletRed
+    4300004: Material_1
+    4300006: M_0024_OrangeRed
+    4300008: Material_3
+    4300010: M_0024_OrangeRed
+    4300012: Material_3
+    4300014: M_0024_OrangeRed
+    4300016: Material_3
+    4300018: M_0024_OrangeRed
+    4300020: Material_3
+    4300022: M_0024_OrangeRed
+    4300024: Material_3
+    4300026: M_0024_OrangeRed
+    4300028: Material_3
+    4300030: M_0024_OrangeRed
+    4300032: Material_3
+    4300034: M_0024_OrangeRed
+    4300036: Material_3
+    4300038: M_0024_OrangeRed
+    4300040: Material_3
+    4300042: M_0024_OrangeRed
+    4300044: Material_3
+    4300046: M_0024_OrangeRed
+    4300048: Material_3
+    4300050: M_0024_OrangeRed
+    4300052: Material_3
+    4300054: M_0024_OrangeRed
+    4300056: Material_3
+    4300058: M_0024_OrangeRed
+    4300060: Material_3
+    4300062: M_0024_OrangeRed
+    4300064: Material_3
+    4300066: M_0024_OrangeRed
+    4300068: Material_3
+    4300070: M_0024_OrangeRed
+    4300072: Material_3
+    4300074: M_0024_OrangeRed
+    4300076: Material_3
+    4300078: M_0024_OrangeRed
+    4300080: Material_3
+    4300082: M_0024_OrangeRed
+    4300084: Material_3
+    4300086: M_0024_OrangeRed
+    4300088: Material_3
+    4300090: M_0024_OrangeRed
+    4300092: Material_3
+    4300094: M_0024_OrangeRed
+    4300096: Material_3
+    4300098: M_0024_OrangeRed
+    4300100: Material_3
+    4300102: M_0024_OrangeRed
+    4300104: Material_3
+    4300106: M_0024_OrangeRed
+    4300108: Material_3
+    4300110: M_0024_OrangeRed
+    4300112: Material_3
+    4300114: M_0024_OrangeRed
+    4300116: Material_3
+    4300118: M_0024_OrangeRed
+    4300120: Material_3
+    4300122: M_0024_OrangeRed
+    4300124: Material_3
+    4300126: M_0024_OrangeRed
+    4300128: Material_3
+    4300130: M_0024_OrangeRed
+    4300132: Material_3
+    4300134: M_0024_OrangeRed
+    4300136: Material_3
+    4300138: M_0024_OrangeRed
+    4300140: Material_3
+    4300142: M_0024_OrangeRed
+    4300144: Material_3
+    4300146: M_0024_OrangeRed
+    4300148: Material_3
+    4300150: M_0024_OrangeRed
+    4300152: Material_3
+    4300154: M_0024_OrangeRed
+    4300156: Material_3
+    4300158: M_0024_OrangeRed
+    4300160: Material_3
+    4300162: M_0024_OrangeRed
+    4300164: Material_3
+    4300166: M_0024_OrangeRed
+    4300168: Material_3
+    4300170: M_0024_OrangeRed
+    4300172: Material_3
+    4300174: M_0024_OrangeRed
+    4300176: Material_3
+    4300178: M_0024_OrangeRed
+    4300180: Material_3
+    4300182: M_0024_OrangeRed
+    4300184: Material_3
+    4300186: M_0024_OrangeRed
+    4300188: Material_3
+    4300190: M_0024_OrangeRed
+    4300192: Material_3
+    4300194: M_0024_OrangeRed
+    4300196: Material_3
+    4300198: M_0024_OrangeRed
+    4300200: Material_3
+    4300202: M_0024_OrangeRed
+    4300204: Material_3
+    4300206: M_0024_OrangeRed
+    4300208: Material_3
+    4300210: M_0024_OrangeRed
+    4300212: Material_3
+    4300214: M_0024_OrangeRed
+    4300216: Material_3
+    4300218: M_0024_OrangeRed
+    4300220: Material_3
+    4300222: M_0024_OrangeRed
+    4300224: Material_3
+    4300226: M_0024_OrangeRed
+    4300228: Material_3
+    4300230: M_0024_OrangeRed
+    4300232: Material_3
+    4300234: M_0024_OrangeRed
+    4300236: Material_3
+    4300238: M_0024_OrangeRed
+    4300240: Material_3
+    4300242: M_0024_OrangeRed
+    4300244: Material_3
+    4300246: M_0021_DarkRed
+    4300248: M_0046_Gold
+    4300250: M_0041_Chocolate
+    4300252: M_0042_Sienna
+    4300254: M_0041_Chocolate
+    4300256: M_0078_DarkSlateGray
+    4300258: M_0078_DarkSlateGray
+    4300260: M_0078_DarkSlateGray
+    4300262: M_0078_DarkSlateGray
+    4300264: M_0078_DarkSlateGray
+    4300266: M_0078_DarkSlateGray
+    4300268: M_0077_DarkGreen
+    4300270: _Charcoal_
+    4300272: M_0002_MediumVioletRed
+    4300274: M_0065_Lime
+    4300276: M_0002_MediumVioletRed
+    4300278: M_0065_Lime
+    4300280: M_0002_MediumVioletRed
+    4300282: M_0065_Lime
+    4300284: M_0002_MediumVioletRed
+    4300286: M_0065_Lime
+    4300288: M_0002_MediumVioletRed
+    4300290: M_0065_Lime
+    4300292: M_0002_MediumVioletRed
+    4300294: M_0065_Lime
+    4300296: M_0002_MediumVioletRed
+    4300298: M_0065_Lime
+    4300300: M_0002_MediumVioletRed
+    4300302: M_0065_Lime
+    4300304: M_0002_MediumVioletRed
+    4300306: M_0065_Lime
+    4300308: M_0002_MediumVioletRed
+    4300310: M_0065_Lime
+    4300312: M_0002_MediumVioletRed
+    4300314: M_0065_Lime
+    4300316: M_0002_MediumVioletRed
+    4300318: M_0065_Lime
+    4300320: M_0002_MediumVioletRed
+    4300322: M_0065_Lime
+    4300324: M_0002_MediumVioletRed
+    4300326: M_0065_Lime
+    4300328: M_0002_MediumVioletRed
+    4300330: M_0105_Navy
+    4300332: M_0065_Lime
+    4300334: M_0065_Lime
+    4300336: M_0065_Lime
+    4300338: M_0065_Lime
+    4300340: M_0065_Lime
+    4300342: M_0065_Lime
+    4300344: M_0065_Lime
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
